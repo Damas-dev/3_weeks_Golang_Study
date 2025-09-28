@@ -21,7 +21,7 @@ This timetable outlines a three-week, day-by-day structure for learning Go funda
 | Day            | Topic                                 | Sections Covered |    Done    |
 | :------------- | :------------------------------------ | :--------------- | :--------: |
 | **2025/09/26** | **Intro, data_types, string, Go cli** | 01-07            | **[ ✔️ ]** |
-| **2025/09/27** | Variables, basic function             | 08-13            |  **[ ]**   |
+| **2025/09/27** | Variables, basic function             | 08-13            | **[ ✔️ ]** |
 | **2025/09/28** | Operators, if else, switch.           | 14-20            |  **[ ]**   |
 | **2025/09/29** | Looping                               | 21-23            |  **[ ]**   |
 | **2025/09/30** | Review                                | 24               |  **[ ]**   |
