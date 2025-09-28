@@ -2,7 +2,7 @@
 
 ---
 
-## Study Plan Overview
+## Overview
 
 This file contains a detailed three-week study timetable covering essential topics in **Go-lang**.
 
