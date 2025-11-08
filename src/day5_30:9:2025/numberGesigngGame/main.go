@@ -1,4 +1,4 @@
-//? 🧩 Question: Number Guessing Game
+//? Question: Number Guessing Game
 
 //? Write a Go program that lets the user guess a randomly generated number between 0 and 100.
 
